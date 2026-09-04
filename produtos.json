@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1",
+    "titulo": "Colar Nossa Senhora Aparecida",
+    "preco": "200,00",
+    "descricao": "Correntinha de ouro com pingente minimalista de Nossa Senhora Aparecida",
+    "categoria": "Colares",
+    "imagem": "https://images.tcdn.com.br/img/img_prod/834075/90_colar_nossa_senhora_aparecida_cravejado_com_zirconias_3829_3_cae8afd682f826c456761b41809c33dc.jpg"
+  },
+  {
+    "id": "2",
+    "titulo": "Colar Nossa Senhora de Guadalupe",
+    "preco": "200,00",
+    "descricao": "Correntinha de ouro com pingente minimalista de Nossa Senhora de Guadalupe",
+    "categoria": "Colares",
+    "imagem": "https://jmnsemijoias.com.br/pub/media/catalog/product/cache/f591c2bd3914fb469d5c629ca5f2f232/g/r/gr-00903_2.jpg"
+  },
+  {
+    "id": "3",
+    "titulo": "Colar Nossa Senhora das Lágrimas",
+    "preco": "200,00",
+    "descricao": "Correntinha de ouro com pingente minimalista de Nossa Senhora das Lágrimas",
+    "categoria": "Colares",
+    "imagem": "https://cdn.awsli.com.br/2500x2500/1351/1351833/produto/227490463/b099103b-59e2-4f7a-9e91-17620f490ac8-i4thuttzn2.jpeg"
+  },
+  {
+    "id": "4",
+    "titulo": "Colar Nossa Senhora de Fátima",
+    "preco": "200,00",
+    "descricao": "Correntinha de ouro com pingente minimalista de Nossa Senhora de Fátima",
+    "categoria": "Colares",
+    "imagem": "https://madamasemijoias.bwimg.com.br/madamasemijoias/produtos/colar-medalha-de-n--sra-de-fatima-1624450702.3989.jpg"
+  },
+  {
+    "id": "5",
+    "titulo": "Colar Nossa Senhora do Carmo",
+    "preco": "200,00",
+    "descricao": "Correntinha de ouro com pingente minimalista de Nossa Senhora do Carmo",
+    "categoria": "Colares",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m5c9eykzzxao0f"
+  },
+  {
+    "id": "6",
+    "titulo": "Colar Nossa Senhora de la Salette",
+    "preco": "200,00",
+    "descricao": "Correntinha de prata com pingente minimalista de Nossa Senhora de La Salette",
+    "categoria": "Colares",
+    "imagem": "https://tse2.mm.bing.net/th/id/OIP.-ZUR31bE6ZEWKFjW_q5TvgHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": "7",
+    "titulo": "Colar São Bento",
+    "preco": "200,00",
+    "descricao": "Correntinha de ouro com pingente minimalista de São Bento",
+    "categoria": "Colares",
+    "imagem": "https://images.tcdn.com.br/img/img_prod/1204816/90_colar_medalha_sao_bento_borda_cravejado_zirconias_folheado_ouro_18k_7023_2_e8b048c6b823410112754e8d30dfb1a0.jpg"
+  },
+  {
+    "id": "8",
+    "titulo": "Colar Santa Luzia",
+    "preco": "200,00",
+    "descricao": "Correntinha de prata com pingente minimalista de Santa Luzia",
+    "categoria": "Colares",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_2X_825572-MLB110482833535_042026-F-colar-veneziano-medalhinha-santa-luzia-aco-inox.webp"
+  },
+  {
+    "id": "9",
+    "titulo": "Colar Santa Teresinha do Meninio Jesus",
+    "preco": "200,00",
+    "descricao": "Correntinha de ouro com pingente minimalista de Santa Teresinha do Meninio Jesus",
+    "categoria": "Colares",
+    "imagem": "https://cdn.awsli.com.br/2500x2500/1922/1922834/produto/203397389a69be314d8.jpg"
+  },
+  {
+    "id": "10",
+    "titulo": "Pulseira Nossa Senhora Aparecida",
+    "preco": "150,00",
+    "descricao": "Correntinha de prata com pingente minimalista de Nossa Senhora Aparecida",
+    "categoria": "Pulseiras",
+    "imagem": "https://cdn.awsli.com.br/600x450/2758/2758953/produto/349623278/pulseira-prata-nossa-senhora-aparecida--cuc1xu7owh.jpeg"
+  },
+  {
+    "id": "11",
+    "titulo": "Pulseira Nossa Senhora de Guadalupe",
+    "preco": "150,00",
+    "descricao": "Correntinha de ouro com pingente minimalista de Nossa Senhora de Guadalupe",
+    "categoria": "Pulseiras",
+    "imagem": "https://santoaltar.com/cdn/shop/files/PulseiraFemininaDezenaSenhoradeGuadalupeSantoAltar_10.jpg?v=1743102989"
+  },
+  {
+    "id": "12",
+    "titulo": "Pulseira Nossa Senhora das Lágrimas",
+    "preco": "150,00",
+    "descricao": "Correntinha de prata com pingente minimalista de Nossa Senhora das Lágrimas",
+    "categoria": "Pulseiras",
+    "imagem": "https://pedrabrancaacessorios.com.br/cdn/shop/files/75c718b1bad6537c61be73dfbeb42f2c.jpg?v=1750854419&width=530"
+  },
+  {
+    "id": "13",
+    "titulo": "Pulseira Nossa Senhora de Fátima",
+    "preco": "150,00",
+    "descricao": "Correntinha de ouro com pingente minimalista de Nossa Senhora de Fátima",
+    "categoria": "Pulseiras",
+    "imagem": "https://tse1.mm.bing.net/th/id/OIP.biMG3P3jlbyZb2KLWR17GAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": "14",
+    "titulo": "Pulseira Nossa Senhora do Carmo",
+    "preco": "150,00",
+    "descricao": "Correntinha de ouro com pingente minimalista de Nossa Senhora do Carmo",
+    "categoria": "Pulseiras",
+    "imagem": "https://images.tcdn.com.br/img/img_prod/883851/pulseira_nossa_senhora_aparecida_carmo_jesus_banhada_ouro_2845_5_a4cefa18870a47bd0f2aad65c3d7caa5.jpg"
+  },
+  {
+    "id": "15",
+    "titulo": "Pulseira Nossa Senhora de la Salette",
+    "preco": "150,00",
+    "descricao": "Correntinha de ouro com contas e pingente minimalista de Nossa Senhora de La Salette",
+    "categoria": "Pulseiras",
+    "imagem": "https://www.gestodeamorefe.com/cdn/shop/files/21f8e68e-05be-11f1-bf90-aa6a991cecff.jpg?v=1772574565&width=1445"
+  },
+  {
+    "id": "16",
+    "titulo": "Pulseira São Bento",
+    "preco": "150,00",
+    "descricao": "Correntinha de ouro com pingente minimalista de São Bento",
+    "categoria": "Pulseiras",
+    "imagem": "https://images.tcdn.com.br/img/img_prod/747281/pulseira_em_ouro_18k_sao_bento_pl14798_1525_4_e300766d314a7c083dd0966151f0ebed.jpg"
+  },
+  {
+    "id": "17",
+    "titulo": "Pulseira Santa Luzia",
+    "preco": "150,00",
+    "descricao": "Correntinha de ouro com pingente minimalista de Santa Luzia",
+    "categoria": "Pulseiras",
+    "imagem": "https://http2.mlstatic.com/D_NQ_NP_635909-MLM54128206047_032023-O.webp"
+  },
+  {
+    "id": "18",
+    "titulo": "Pulseira Santa Teresinha do Meninio Jesus",
+    "preco": "150,00",
+    "descricao": "Correntinha de ouro com pingente minimalista de Santa Teresinha do Meninio Jesus",
+    "categoria": "Pulseiras",
+    "imagem": "https://tse4.mm.bing.net/th/id/OIP.WphCvARk6ckPMm3iZo_tVAHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3"
+  },
+  {
+    "id": "19",
+    "titulo": "Anel Nossa Senhora Aparecida",
+    "preco": "100,00",
+    "descricao": "Anel minimalista de prate com Nossa Senhora Aparecida",
+    "categoria": "Anéis",
+    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSclH_TLsOSy7mnLtCO5DPF-u_w6RYJf_37kgVfrSyJpw&s"
+  },
+  {
+    "id": "20",
+    "titulo": "Anel Nossa Senhora de Guadalupe",
+    "preco": "100,00",
+    "descricao": "Anel de prdras de ouro com Nossa Senhora de Guadalupe",
+    "categoria": "Anéis",
+    "imagem": "https://s.alicdn.com/@sc04/kf/Hdc3669e412ae49b9a2aa64533722e3e7u.jpg"
+  },
+  {
+    "id": "21",
+    "titulo": "Anel Nossa Senhora das Lágrimas",
+    "preco": "100,00",
+    "descricao": "Correntinha de ouro com pingente minimalista de Nossa Senhora das Lágrimas",
+    "categoria": "Anéis",
+    "imagem": ""
+  },
+  {
+    "id": "22",
+    "titulo": "Anel Nossa Senhora de Fátima",
+    "preco": "100,00",
+    "descricao": "Correntinha de ouro com pingente minimalista de Nossa Senhora de Fátima",
+    "categoria": "Anéis",
+    "imagem": ""
+  },
+  {
+    "id": "23",
+    "titulo": "Anel Nossa Senhora do Carmo",
+    "preco": "100,00",
+    "descricao": "Correntinha de ouro com pingente minimalista de Nossa Senhora do Carmo",
+    "categoria": "Anéis",
+    "imagem": ""
+  },
+  {
+    "id": "24",
+    "titulo": "Anel Nossa Senhora de la Salette",
+    "preco": "100,00",
+    "descricao": "Correntinha de ouro com pingente minimalista de Nossa Senhora de La Salette",
+    "categoria": "Anéis",
+    "imagem": ""
+  },
+  {
+    "id": "25",
+    "titulo": "Anel São Bento",
+    "preco": "100,00",
+    "descricao": "Anel de ouro com medalha de São Bento",
+    "categoria": "Anéis",
+    "imagem": "https://blueenstore.com/cdn/shop/products/anel-sao-bento-0-blueen-store-1415-dourado-560450.jpg?v=1774374451&width=1946"
+  },
+  {
+    "id": "26",
+    "titulo": "Anel Santa Luzia",
+    "preco": "100,00",
+    "descricao": "Anel de ouro com pedraria inspirado em Santa Luzia",
+    "categoria": "Anéis",
+    "imagem": "https://img.irroba.com.br/filters:fill(fff):quality(80)/joiasmbc/catalog/anel-de-noivado-santa-luzia-mg-zirconia-navete-4-grs-7-mm-diamante-brilhante-safira-ouro-18k-750-preco-em-promocao-aneis-solitario-noivado-barato-pedras-sinteticas.jpg"
+  },
+  {
+    "id": "27",
+    "titulo": "Anel Santa Teresinha do Meninio Jesus",
+    "preco": "100,00",
+    "descricao": "Anel de ouro com rosa inspirado em Santa Teresinha do Meninio Jesus",
+    "categoria": "Anéis",
+    "imagem": "https://img.irroba.com.br/fit-in/1000x1000/filters:fill(fff):quality(80)/michelet/catalog/loja/produtos/produtos-inseridos-apos-a-migracao/fotos-humanizadas/anel-rosa-bicolor-ouro-18k-micheletti-joias-fh.jpg"
+  }
+]

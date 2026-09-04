@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Painel | Lumiére Joalheria</title>
+    <link rel="stylesheet" href="/admin.css">
+</head>
+<body>
+<header class="admin-header"><a class="brand" href="/">Lumiére</a><div><span class="admin-label">Painel administrativo</span><a class="store-link" href="/">Voltar à loja <span>→</span></a></div></header>
+<main class="admin-main">
+    <section class="welcome"><div><p class="eyebrow">Gestão da maison</p><h1>Catálogo</h1><p>Organize as peças que aparecem na sua vitrine.</p></div><div class="stat"><strong id="totalProdutos">0</strong><span>peças cadastradas</span></div></section>
+    <section class="admin-grid">
+        <div class="form-card"><div class="card-heading"><p class="eyebrow">Nova peça</p><h2>Adicionar produto</h2></div><form id="formProduto"><label>Nome da peça<input id="titulo" name="titulo" type="text" placeholder="Ex.: Colar Nossa Senhora" required></label><div class="form-row"><label>Preço<input id="preco" name="preco" type="number" min="0" step="0.01" placeholder="200,00" required></label><label>Categoria<input id="categoria" name="categoria" type="text" placeholder="Colares" required></label></div><label>Descrição<textarea id="descricao" name="descricao" rows="4" placeholder="Descreva o acabamento e o significado da peça."></textarea></label><label>URL da imagem<input id="imagem" name="imagem" type="url" placeholder="https://..." required></label><p id="mensagem" class="form-message" role="status"></p><button class="primary-button" type="submit">Adicionar à vitrine</button></form></div>
+        <section class="catalog-card"><div class="catalog-heading"><div><p class="eyebrow">Inventário completo</p><h2>Produtos cadastrados</h2></div><button id="atualizar" class="refresh-button" type="button">Atualizar</button></div><div class="toolbar"><label class="search-box">Pesquisar<input id="busca" type="search" placeholder="Nome ou categoria"></label><label>Categoria<select id="filtroCategoria"><option value="todos">Todas</option></select></label><label>Ordenar<select id="ordenacao"><option value="recentes">Mais recentes</option><option value="nome">Nome A-Z</option><option value="preco-menor">Menor preço</option><option value="preco-maior">Maior preço</option></select></label></div><p id="status" class="status">Carregando produtos...</p><div id="produtos" class="product-list"></div></section>
+    </section>
+</main><div id="toast" class="toast" role="status"></div><script src="/adm.js"></script>
+</body>
+</html>
