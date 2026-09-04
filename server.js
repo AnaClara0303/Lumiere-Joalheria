@@ -45,7 +45,15 @@ async function readAccounts(filePath) {
     return Array.isArray(accounts) ? accounts : [accounts];
   } catch (error) {
     console.error(`Erro ao ler ${path.basename(filePath)}:`, error.message);
-    return [];
+    try {
+      const content = fs.readFileSync(filePath, "utf8").trim();
+      if (!content) return [];
+      const accounts = JSON.parse(content);
+      return Array.isArray(accounts) ? accounts : [accounts];
+    } catch (fallbackError) {
+      console.error(`Erro no fallback local de ${path.basename(filePath)}:`, fallbackError.message);
+      return [];
+    }
   }
 }
 
@@ -59,7 +67,17 @@ async function readProducts() {
     }
   } catch (error) {
     console.error("Erro ao ler produtos.json:", error.message);
-    return [];
+    try {
+      const content = fs.readFileSync(PRODUCTS_FILE, "utf8").trim();
+      try {
+        return JSON.parse(content);
+      } catch {
+        return [...content.matchAll(/\{[\s\S]*?\}/g)].map((match) => JSON.parse(match[0]));
+      }
+    } catch (fallbackError) {
+      console.error("Erro no fallback local de produtos.json:", fallbackError.message);
+      return [];
+    }
   }
 }
 
@@ -155,7 +173,7 @@ app.post("/api/login", async (req, res) => {
 app.get("/api/session", (req, res) => {
   const token = getCookie(req, "session");
   const session = token && sessions.get(token);
-  if (!session) return res.status(401).json({ autenticado: false });
+  if (!session) return res.json({ autenticado: false });
   return res.json({ autenticado: true, tipo: session.role, usuario: session.user });
 });
 
