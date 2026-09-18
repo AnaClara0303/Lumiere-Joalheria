@@ -4,5 +4,9 @@
         "nome": "Ana Clara",
         "email": "ana.clara@example.com",
         "senha": "123456"
-    }
+    },
+        "id": 1,
+        "nome": "Beatriz",
+        "email": "beatriz@example.com",
+        "senha": "123456"
 ]
